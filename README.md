@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FestikTT/FestikTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Festik 👋
 
-Here are some ideas to get you started:
+<img src="https://githubusercontent.com" width="100%" alt="Midnight Coding Session"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3>
+  <font size="5" color="#58a6ff"><i>"The green stripe doesn't lie. A new era of dominance begins now."</i></font>
+</h3>
+
+</div>
+
+---
+
+### 🛠️ Tech & Training
+* 🚀 **Language:** C++ (Competitive Programming)
+* 🎯 **Goal:** 480 points at the Regional Stage of Informatics Olympiad
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://vercel.app" alt="FestikTT's Most Used Languages"/>
+</div>
