@@ -17,10 +17,6 @@
 * https://codeforces.com/profile/FESTINFINE
 
 ---
-<div align="center">
-  <img src="./banner2.gif" width="600" />
-</div>
-
 
 ### 📚 Learning & Practice
 * **AI:** T-Bank prep course for All-Russian Olympiad School in AI (ВсОШ по ИИ)
