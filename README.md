@@ -18,9 +18,9 @@
 
 ---
 <div align="center">
-<img width="640" height="487" alt="banner1" src="https://github.com/user-attachments/assets/02394374-0bbe-40c8-a718-9634aae5355a" />
-
+  <img src="./banner2.gif" width="600" />
 </div>
+
 
 ### 📚 Learning & Practice
 * **AI:** T-Bank prep course for All-Russian Olympiad School in AI (ВсОШ по ИИ)
