@@ -9,9 +9,9 @@
 ---
 
 ### 🏆 Olympiads & Competitive Programming
-* **ВсОШ по информатике:** 2x Regional Stage Participant
+* **ВсОШ:** 2x Regional Stage Participant
 * **Оборонно-техническая олимпиада:** 🥈 2nd-Degree Diploma (Informatics & Programming, 2026)
-* **T-Bank PROD Olympiad:** Semi-finalist & Stage Prize-Winner (2025–2026)
+* **T-Bank PROD Olympiad:** Finalist & Stage Prize-Winner (2025–2026)
 * **НТО:** Passed 3 engineering & programming tracks
 * **Contests:** Active **Codeforces** solver, **ICPC Online Challenge**, **RuCode**
 * https://codeforces.com/profile/FESTINFINE
