@@ -1,6 +1,3 @@
-<div align="center">
-  <img width="600" height="400" alt="fa5e78d3-86a1-43ec-b09c-cf17076b6751" src="https://github.com/user-attachments/assets/11662c2a-0f24-495d-bceb-a02d2f93c066" />
-
 
   <h1>Festik</h1>
   <b>Competitive Programmer • Backend & Systems • AI Infrastructure</b>
