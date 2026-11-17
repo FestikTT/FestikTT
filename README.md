@@ -1,6 +1,6 @@
 
-  <h1>Festik</h1>
-  <b>Competitive Programmer • Backend & Systems • AI Infrastructure</b>
+<h1>Festik</h1>
+<b>Competitive Programmer • Backend & Systems • AI Infrastructure</b>
 </div>
 
 ---
