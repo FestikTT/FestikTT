@@ -1,5 +1,4 @@
-
-<h1>Festik</h1>
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/76af4a44-9212-4660-bd2f-3dbc20423627" /><img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/b3e2ec6c-3556-438f-b061-9d5c1bf0b085" />
 <b>Competitive Programmer • ML • Backend & Systems • AI Infrastructure</b>
 </div>
 
@@ -7,7 +6,7 @@
 
 ### 🏆 Olympiads & Competitive Programming
 * **ВсОШ:** 2x Regional Stage Participant
-* **Оборонно-техническая олимпиада:** 🥈 2nd-Degree Diploma (Informatics & Programming, 2026)
+* **The Defense-Technical Olympiad:** 🥈 2nd-Degree Diploma (Informatics & Programming, 2026)
 * **T-Bank PROD Olympiad:** Finalist & Stage Prize-Winner (2025–2026)
 * **НТО:** Passed 3 engineering & programming tracks
 * **Contests:** Active **Codeforces** solver, **ICPC Online Challenge**, **RuCode**
@@ -15,7 +14,7 @@
 
 ---
 ### 📚 Learning & Practice
-* **AI:** T-Bank prep course for All-Russian Olympiad School in AI (ВсОШ по ИИ)
+* **AI:** T-Bank prep course for All-Russian Olympiad School in AI
 * **Backend & Go:** Yandex Handbook (Introduction to Go), Hexlet, YouTube courses
 * **Languages:** C++ (algorithms, STL), Python, Go
 * **Infra & Tools:** Git, PostgreSQL, Apache Kafka
