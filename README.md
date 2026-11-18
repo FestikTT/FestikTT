@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/76af4a44-9212-4660-bd2f-3dbc20423627" /><img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/b3e2ec6c-3556-438f-b061-9d5c1bf0b085" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/156e3a4f-bb08-4c74-9198-40682d132613" />
+
 <b>Competitive Programmer • ML • Backend & Systems • AI Infrastructure</b>
 </div>
 
