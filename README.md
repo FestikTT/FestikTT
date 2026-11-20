@@ -9,7 +9,7 @@
 * **ВсОШ:** 2x Regional Stage Participant
 * **T-Bank PROD Olympiad:** 🥇 Finalist & Stage Prize-Winner (2025–2026)
 * **The Defense-Technical Olympiad:** 🥇 Finalist & Stage Prize-Winner (2025–2026)
-* **НТО:** Passed 3 engineering & programming tracks
+* **НТО:** 3 engineering & programming tracks
 * **Contests:** Active **Codeforces** solver, **ICPC Online Challenge**, **RuCode**
 * https://codeforces.com/profile/FESTINFINE
 
